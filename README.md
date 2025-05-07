@@ -2,7 +2,6 @@
 
 A beautiful and interactive weather forecasting web application built with Flask and the OpenWeatherMap API. This application allows users to search for weather information by city name and displays current weather conditions along with a 5-day forecast.
 
-![Weather Forecast Website](https://via.placeholder.com/800x400)
 
 ## Features
 
