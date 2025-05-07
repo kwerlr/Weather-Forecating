@@ -33,8 +33,8 @@ A beautiful and interactive weather forecasting web application built with Flask
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kwerlr/weather-forecast-website.git
-   cd weather-forecast-website
+   git clone https://github.com/kwerlr/Weather-Forecasting.git
+   cd Weather-Forecasting
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
