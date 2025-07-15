@@ -116,18 +116,6 @@ You can customize the color scheme by modifying the CSS variables in the `:root`
 }
 ```
 
-### Adding New Features
-
-Some ideas for extending the application:
-
-- Add geolocation support to automatically detect the user's city
-- Implement hourly forecast
-- Add weather maps
-- Include air quality information
-- Add multiple city saving/favorites feature
-- Implement weather alerts
-- Add historical weather data
-
 ## API Reference
 
 This application uses the OpenWeatherMap API:
@@ -153,17 +141,6 @@ The application works on all modern browsers:
 - Firefox
 - Safari
 - Edge
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 ## Acknowledgements
 
